@@ -14,5 +14,7 @@ Graba en una base de datos Room las busquedas realizadas
 ![Pantalla Principal](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Principal.png)
 
 
+![Pantalla Principal](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_ampliado.png)
+
 
 ![Pantalla de Busqueda](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Segunda.png)
