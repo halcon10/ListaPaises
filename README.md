@@ -11,5 +11,6 @@ Graba en una base de datos Room las busquedas realizadas
     implementation 'com.android.support:recyclerview-v7:28.0.0-alpha1
     implementation "android.arch.persistence.room:runtime:1.0.0-rc1"
     
+![Pantalla Principal](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Principal.png)
 https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Principal.png
 https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Segunda.png
