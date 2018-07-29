@@ -12,5 +12,4 @@ Graba en una base de datos Room las busquedas realizadas
     implementation "android.arch.persistence.room:runtime:1.0.0-rc1"
     
 ![Pantalla Principal](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Principal.png)
-https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Principal.png
-https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Segunda.png
+![Pantalla de Busqueda](https://github.com/halcon10/ListaPaises/blob/master/imagenes/Screenshot_Segunda.png)
