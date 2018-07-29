@@ -1,7 +1,7 @@
 # ListaPaises
 
-Aplicacion Desarrollada en Android consume un API para listar los paises
-grabar en una base de datos Room las busquedas realizadas
+Aplicacion Desarrollada en Android, consume un API para listar los paises.
+Graba en una base de datos Room las busquedas realizadas
 
 
     implementation 'com.android.support:appcompat-v7:28.0.0-alpha1'
